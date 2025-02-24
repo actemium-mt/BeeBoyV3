@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+st-star-rating
+streamlit-lottie
+azure-ai-ml
+msal
